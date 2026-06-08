@@ -49,24 +49,23 @@ https://visible-ks.com
 
 ### Homepage
 
-![Visible Homepage](screenshots/01-homepage.png)
+![Visible Homepage](01-homepage.png)
 
 ### Category and City Discovery
 
-![Category and City Discovery](screenshots/02-category-and-city-discovery.png)
+![Category and City Discovery](02-category-and-city-discovery.png)
 
 ### Business Profile and Booking Flow
 
-![Business Profile and Booking](screenshots/03-business-profile-booking.png)
+![Business Profile and Booking](03-business-profile-booking.png)
 
 ### Category Results Page
 
-![Category Results](screenshots/04-category-results.png)
+![Category Results](04-category-results.png)
 
 ### Business Booking Dashboard
 
-![Business Booking Dashboard](screenshots/05-business-booking-dashboard.png)
-
+![Business Booking Dashboard](05-business-booking-dashboard.png)
 ## Project Status
 
 Visible is a live platform and continues to be improved with new business discovery, booking, and business management features.
